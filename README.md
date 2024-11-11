@@ -10,7 +10,9 @@ This README outlines the key accomplishments and manufacturing processes in deve
 
 ## Manufacturing Process
 
-- **Precision Machining:** Components for the Mechanical Braking Systems were manufactured and assembled using a Lathe and Mill, ensuring high precision with tolerances of ±0.001''. This level of accuracy was critical in meeting the stringent requirements for competition.
+- The Brake and Throttle Pedal Shaft, Tray, and Rail were designed with a focus on Design for Manufacturing (DFM). CNC and waterjet methods were used to ensure high precision and accuracy, as these components include critical mounting points. The CAD files were sent to our sponsor for manufacturing to ensure these components meet the required standards.
+
+- The rest of the components for the Mechanical Braking Systems were manufactured and assembled using a Lathe and Mill, ensuring good precision with tolerances of ±0.001''. This level of accuracy was critical in meeting the stringent requirements for competition.
 
 ## Key Features
 
