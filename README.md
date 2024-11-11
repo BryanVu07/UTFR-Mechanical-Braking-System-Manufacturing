@@ -1,4 +1,4 @@
-# UT24 UTFR-Mechanical-Braking-System-Manufacturing and Integration (Deign Owner: UT24 Brakes Lead - Mo Taban)
+# UT24 UTFR-Mechanical-Braking-System-Manufacturing and Integration (Design Owner: UT24 Brakes Lead - Mo Taban)
 
 ## Overview
 This README provides an overview of the key accomplishments and manufacturing processes involved in the development of the Mechanical Braking Systems for the University of Toronto Formula Racing (UTFR) team's competition vehicles. The braking system, originally designed by the UT24 Brakes Lead - Mo Taban, was further developed and refined through meticulous manufacturing and assembly processes.
@@ -16,7 +16,6 @@ This README provides an overview of the key accomplishments and manufacturing pr
 
 ## Purpose
 This project demonstrates the team's commitment to precision engineering and high-performance automotive design, contributing to the successful results at international competitions.
-
 
 1.0 Throttle Pedal
 
